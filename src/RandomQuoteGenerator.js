@@ -1,6 +1,6 @@
 import React from 'react'
 
-class QuoteBox extends React.Component{
+export class QuoteBox extends React.Component{
   constructor(props){
     super(props)
     this.state = {
@@ -49,5 +49,3 @@ class QuoteBox extends React.Component{
     );
   }
 }
-
-ReactDOM.render(<QuoteBox/>, document.getElementById('root'))
