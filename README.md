@@ -1,4 +1,4 @@
-[See this project here](https://codepen.io/Alex_tq/full/wvvbVbO)
+[See this project here](https://alex-tq.github.io/random-quote-generator/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
